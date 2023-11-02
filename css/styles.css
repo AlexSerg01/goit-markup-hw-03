@@ -293,9 +293,11 @@ img {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .footer-logo-span {
   font-family: "Raleway", sans-serif;
   color: #f4f4fd;
+  display: inline-block;
 }
