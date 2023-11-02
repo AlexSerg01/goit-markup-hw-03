@@ -145,7 +145,7 @@ img {
   gap: 24px;
 }
 
-.values-li {
+.value-li {
   width: calc((100% - 72px) / 4);
 }
 
@@ -184,10 +184,6 @@ img {
 
 .team-list {
   background-color: #ffffff;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding-bottom: 0;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
