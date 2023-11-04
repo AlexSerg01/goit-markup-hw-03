@@ -26,7 +26,6 @@ img {
 .header {
   display: flex;
   border-bottom: 1px solid #e7e9fc;
-  padding: 24px 0;
 }
 
 .container {
@@ -76,6 +75,7 @@ img {
   letter-spacing: 0.02em;
   line-height: 1.5;
   padding: 24px 0;
+  display: block;
 }
 
 .nav-link:hover,
